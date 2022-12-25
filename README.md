@@ -1,4 +1,4 @@
-# skillshare
+# Skillswag
 
 A the social media app to showcase your skills
 
